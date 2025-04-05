@@ -1,1 +1,3 @@
-# JavaScript_2025.03.28
+# Create and practice JS 
+  - Practice different challanges
+  - learning create modularity 
